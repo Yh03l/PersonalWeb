@@ -1,0 +1,7 @@
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.dll.config
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.dll
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.pdb
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\obj\Debug\PersonalWeb.csprojAssemblyReference.cache
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\obj\Debug\PersonalWeb.csproj.CoreCompileInputs.cache
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\obj\Debug\PersonalWeb.dll
+C:\Users\Herbas\source\repos\PersonalWeb\PersonalWeb\obj\Debug\PersonalWeb.pdb

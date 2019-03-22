@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="PersonalWeb.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Mi Página Personal</title>
+    <link href="css/estilos.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmMaster" runat="server">
+        <header class="header">
+            <nav>
+              <a href="#default" class="logo">My personal Web</a>
+            </nav>
+        </header>
+        <nav class="navegador">
+            <ul>
+              <li><a class="active" href="index.aspx">Inicio</a></li>
+              <li><a href="wfFamily.aspx">Familia</a></li>
+              <li><a href="#contact">Educación</a></li>
+              <li><a href="#about">Entretenimiento</a></li>
+              <li><a href="#about">Mis Redes Sociales</a></li>
+              <li><a href="#about">Contáctame</a></li>
+              <li><a href="#about">Registro</a></li>
+            </ul>
+        </nav>
+
+        <section class="contenido">
+            <asp:ContentPlaceHolder ID="ContentPrincipal" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </section>
+    </form>
+    <footer class="footer">
+        <p>&copy; Joel Herbas 22-03-2019</p>
+    </footer>
+</body>
+</html>
